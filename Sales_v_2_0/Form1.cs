@@ -38,6 +38,7 @@ namespace Sales_v_2_0
         public Form1()
         {
             InitializeComponent();
+	    //TODO Use english commetns!!
             //Инициализируем элементы управления +++
             #region
             this.Text = "Sales";
