@@ -1,0 +1,16 @@
+C:\Users\Alesya\Desktop\Sales_v_2_0\Sales_v_2_0\bin\Debug\Sales_v_2_0.exe
+C:\Users\Alesya\Desktop\Sales_v_2_0\Sales_v_2_0\bin\Debug\Sales_v_2_0.pdb
+C:\Users\Alesya\Desktop\Sales_v_2_0\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.Properties.Resources.resources
+C:\Users\Alesya\Desktop\Sales_v_2_0\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.csproj.GenerateResource.Cache
+C:\Users\Alesya\Desktop\Sales_v_2_0\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.exe
+C:\Users\Alesya\Desktop\Sales_v_2_0\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.pdb
+C:\Users\Alesya\Desktop\Sales_v_2_0\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.Form1.resources
+C:\Users\Alesya\Desktop\Sales_v_2_0\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.csprojResolveAssemblyReference.cache
+C:\Users\Alesya\Desktop\Sales_v_2_1\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.exe
+C:\Users\Alesya\Desktop\Sales_v_2_1\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.pdb
+C:\Users\Alesya\Desktop\Sales_v_2_1\Sales_v_2_0\bin\Debug\Sales_v_2_0.exe
+C:\Users\Alesya\Desktop\Sales_v_2_1\Sales_v_2_0\bin\Debug\Sales_v_2_0.pdb
+C:\Users\Alesya\Desktop\Sales_v_2_1\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.csprojResolveAssemblyReference.cache
+C:\Users\Alesya\Desktop\Sales_v_2_1\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.Form1.resources
+C:\Users\Alesya\Desktop\Sales_v_2_1\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.Properties.Resources.resources
+C:\Users\Alesya\Desktop\Sales_v_2_1\Sales_v_2_0\obj\x86\Debug\Sales_v_2_0.csproj.GenerateResource.Cache
